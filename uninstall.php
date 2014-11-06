@@ -3,5 +3,3 @@
 /*
  * No uninstall operations required.
  */
-
-?>
