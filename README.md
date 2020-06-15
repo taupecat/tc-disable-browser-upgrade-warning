@@ -3,7 +3,7 @@
 * Contributors: taupecat
 * Requires at least: 3.2
 * Tested up to: 5.4.2
-* Stable tag: 2.0.0
+* Stable tag: 2.0.1
 * Tags: dashboard, browser, browser-nag
 * License: MIT
 * Requires PHP: 5.3.0
@@ -20,6 +20,10 @@ WordPress 3.2 introduced a new dashboard widget that warns you if you're not usi
 2. Navigate to the Plugins section of the Dashboard and click "Activate".
 
 ## Changelog
+
+### Version 2.0.1
+* Removing "readme.txt" file and using only README.md.
+* Fixed @package name on uninstall.php file.
 
 ### Version 2.0.0
 * Code rewrite to WordPress best practices.

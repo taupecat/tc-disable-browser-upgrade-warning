@@ -3,5 +3,5 @@
  * No uninstall operations required.
  * phpcs:disable
  *
- * @package TC Comment Out
+ * @package TC Disable Browser Upgrade Warning
  */

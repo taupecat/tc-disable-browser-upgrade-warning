@@ -3,7 +3,7 @@
  * Plugin Name: TC Disable Browser Upgrade Warning
  * Plugin URI: https://github.com/taupecat/tc-disable-browser-upgrade-warning
  * Description: Disable the warning you see on the dashboard if you're using an older version of a particular browser.
- * Version: 2.0.0
+ * Version: 2.0.1
  * Author: Tracy Rotton
  * Author URI: https://taupecat.com/
  * License: MIT
